@@ -14,6 +14,6 @@ def dumb_func():
     '''
     duh
     '''
-    print(10/0)  // googles 'python division by zero'
+    print(10/0)  # googles 'python division by zero'
 ```
 
