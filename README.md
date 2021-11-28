@@ -9,7 +9,7 @@ It googles the error message that occurs in the annotated function for you.
 ## houw to use this
 
 ```python
-@googleit
+@ggrks
 def dumb_func():
     '''
     duh

@@ -1,6 +1,6 @@
 import webbrowser
 
-def googleit(func):
+def ggrks(func):
     def wrapper(*args, **kwargs):
         try:
             func(*args, **kwargs)
